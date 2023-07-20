@@ -1,1 +1,0 @@
-# 2023_hisilicon_embedded_competition
